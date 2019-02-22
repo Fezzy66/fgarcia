@@ -13,6 +13,13 @@ h3{
     margin:20px 0px;
 }
 
+li{
+    font-size:25px
+}
+    
+    
+
+
 #logo{
     margin-bottom:0px;
     color:#fff;
@@ -21,7 +28,7 @@ h3{
 }
 
 header{
-    background:#263071;
+    background:#5CC00F;
     position: relative;
     padding:10px 0px;
 }
@@ -44,17 +51,17 @@ nav a{
     display: block;
     text-decoration: none;
     color: #fff;
-    padding:0px 10px;
+    padding:10px 10px;
 }
 
 nav a:hover{
-    color:#6a7587;
+    color:#6a7587; 
 }
 
 .container{
     max-width:750px;
     margin:0px auto;
-    padding:100px 0px;
+    padding:200px 0px;
 }
 
 .container:after{
@@ -93,7 +100,11 @@ nav a:hover{
     background: url(img/sunset.jpg);
     background-size: cover;
     background-attachment: fixed;
+    color:#fff;
 }
+
+
+
 
 
 
